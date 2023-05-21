@@ -6,7 +6,7 @@
 
 <ul>
   <li>tqdm</li>
-  <li>requets</li>
+  <li>requests</li>
   <li>pandas</li>
 </ul>
 
